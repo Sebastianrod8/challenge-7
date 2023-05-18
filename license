@@ -1,0 +1,33 @@
+[
+     {
+    "licenseTitle": "Apache license 2.0",
+    "licenseBadge": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+    "licenseLink": "https://opensource.org/licenses/Apache-2.0"
+  },
+   {
+    "licenseTitle": "GNU V3.0",
+    "licenseBadge": "https://img.shields.io/badge/License-GPLv3-blue.svg",
+    "licenseLink": "https://www.gnu.org/licenses/gpl-3.0"
+  },
+   {
+    "licenseTitle": "MIT",
+    "licenseBadge": "https://img.shields.io/badge/License-MIT-yellow.svg",
+    "licenseLink": "https://opensource.org/licenses/MIT"
+  },
+   {
+    "licenseTitle": "IBM Public license",
+    "licenseBadge": "https://img.shields.io/badge/License-IPL_1.0-blue.svg",
+    "licenseLink": "https://opensource.org/licenses/IPL-1.0"
+  },
+   {
+    "licenseTitle": "Boost Software license",
+    "licenseBadge": "https://img.shields.io/badge/License-Boost_1.0-lightblue.svg",
+    "licenseLink": "https://www.boost.org/LICENSE_1_0.txt"
+  },
+   {
+    "licenseTitle": "Mozilla public license 2.0",
+    "licenseBadge": "https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg",
+    "licenseLink": "https://opensource.org/licenses/MPL-2.0"
+  }
+
+]
